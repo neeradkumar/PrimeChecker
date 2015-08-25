@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PrimeChecker</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="is_prime">Is Prime</string>
+    <string name="primes_till">Primes Till</string>
+</resources>
